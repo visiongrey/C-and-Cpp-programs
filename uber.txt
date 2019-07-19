@@ -1,0 +1,9 @@
+Uber is a transportation network company (TNC) headquartered in San Francisco, California. Uber offers services including peer-to-peer ridesharing, ride service hailing, food delivery, and a bicycle-sharing system. The company has operations in 785 metropolitan areas worldwide. Its platforms can be accessed via its websites and mobile apps. Uber has been so prominent in the sharing economy that the changes in industries as a result of it have been referred to as uberisation, and many startups have described their products as "Uber for X".
+
+The name "Uber" is a reference to the common (and somewhat colloquial) word uber, meaning "topmost" or "super", and having its origins in the German word über, cognate with over, meaning "above".
+
+Uber is estimated to have 100 million worldwide users and a 69% market share in the United States.
+
+Uber is a gold member of the Linux Foundation and has a five star privacy rating from the Electronic Frontier Foundation.
+
+Most jurisdictions regulate TNCs such as Uber and TNCs are banned from operating in some jurisdictions. For more information, see Legality of TNCs by jurisdiction.
